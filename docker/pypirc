@@ -1,0 +1,8 @@
+[sqooba-pypi]
+repository=https://artifactory.ocean.pmicloud.biz/artifactory/api/pypi/python-registry-local
+username=your_username
+password=your_password
+
+
+
+#python setup.py sdist upload -r "https://artifactory.ocean.pmicloud.biz/artifactory/api/pypi/python-registry-local"
